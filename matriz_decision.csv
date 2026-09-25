@@ -1,0 +1,7 @@
+criterio;                               peso;   opcion_1;   opcion_2;   opcion_3
+Coste Total de Propiedad;               25;     5;          2;          4
+Adaptabilidad a Fabricacion y Lotes;    20;     4;          4;          5
+Facilidad de Uso e Interfaz;            15;     3;          5;          4
+Soporte Tecnico y SLA;                  15;     2;          5;          5
+Requisitos de Infraestructura Propia;   10;     3;          4;          3
+Facilidad de Integracion con Ofimatica; 15;     3;          5;          4
